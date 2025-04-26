@@ -46,7 +46,7 @@ git clone https://github.com/christaO2/christaO2.github.io.git
    - Simply open `index.html` in your browser
    - Or use a local server (e.g., Python's built-in server):
      ```bash
-     python -m http.server 8000
+     python3 -m http.server 8000
      ```
      Then visit `http://localhost:8000`
 
