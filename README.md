@@ -12,6 +12,7 @@ Welcome to my personal website repository! This is a modern, responsive portfoli
 - Contact information
 - Resume/CV download
 - Social media links
+- Google Analytics integration with event tracking
 
 ## Technologies Used
 
@@ -20,6 +21,7 @@ Welcome to my personal website repository! This is a modern, responsive portfoli
 - JavaScript
 - Font Awesome (for icons)
 - Google Fonts (Poppins)
+- Google Analytics 4
 
 ## Setup and Deployment
 
@@ -37,7 +39,6 @@ git clone https://github.com/christaO2/christaO2.github.io.git
      python -m http.server 8000
      ```
      Then visit `http://localhost:8000`
-
 
 ## Customization
 
@@ -58,6 +59,20 @@ To use this as your own personal website:
 5. Push your changes to GitHub
 6. Enable GitHub Pages in your repository settings
 7. Your site will be live at `https://yourusername.github.io`
+
+## Google Analytics Setup
+
+1. Create a Google Analytics account at https://analytics.google.com/
+2. Create a new property for your website
+3. Get your Measurement ID (starts with "G-")
+4. Replace "G-XXXXXXXXXX" in the `index.html` file with your Measurement ID
+
+The website tracks:
+- Project clicks (GitHub and demo links)
+- Resume downloads
+- Contact link clicks (LinkedIn, GitHub, Email, Phone)
+- CTA button clicks
+- Page views and user sessions
 
 ## License
 
