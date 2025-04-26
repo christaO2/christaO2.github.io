@@ -1,5 +1,15 @@
 # Christa Ongouya's Personal Website
 
+<div align="center">
+    
+[![GitHub license](https://img.shields.io/github/license/christaO2/christaO2.github.io?color=blue)](https://github.com/christaO2/christaO2.github.io/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/christaO2/christaO2.github.io)](https://github.com/christaO2/christaO2.github.io)
+[![GitHub forks](https://img.shields.io/github/forks/christaO2/christaO2.github.io)](https://github.com/christaO2/christaO2.github.io/fork)
+[![GitHub issues](https://img.shields.io/github/issues/christaO2/christaO2.github.io)](https://github.com/christaO2/christaO2.github.io/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/christaO2/christaO2.github.io)](https://github.com/christaO2/christaO2.github.io/commits/main)
+
+</div>
+
 Welcome to my personal website repository! This is a modern, responsive portfolio website built with HTML, CSS, and JavaScript, deployed using GitHub Pages.
 
 ## Features
@@ -76,10 +86,9 @@ The website tracks:
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the MIT LicensE - see [LICENSE](https://github.com/christaO2/christaO2.github.io/blob/main/LICENSE) 
 
 ## Contact
-
 Feel free to reach out if you have any questions or suggestions!
 
 - LinkedIn: [christa-ongouya](https://linkedin.com/in/christa-ongouya)
