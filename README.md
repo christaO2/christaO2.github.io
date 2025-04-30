@@ -1,4 +1,4 @@
-# Christa Ongouya's Personal Website
+# Personal Website
 
 <div align="center">
     
@@ -92,7 +92,7 @@ The website tracks:
 
 ## License
 
-This project is licensed under the MIT LicensE - see [LICENSE](https://github.com/christaO2/christaO2.github.io/blob/main/LICENSE) 
+This project is licensed under the MIT License - see [LICENSE](https://github.com/christaO2/christaO2.github.io/blob/main/LICENSE) 
 
 ## Contact
 Feel free to reach out if you have any questions or suggestions!
